@@ -132,7 +132,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/fdalms/GamePanel.java</url>
-          <line>166</line>
+          <line>184</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
